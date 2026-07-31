@@ -11,3 +11,4 @@ Automated job alert system that scrapes FreshersOffCampus and sends real-time Te
 ## Run
 pip install -r requirements.txt
 python run.py
+<!-- automation active -->
